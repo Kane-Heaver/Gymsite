@@ -6,6 +6,7 @@ import TextInput from '../../components/textinput';
 
 import Hero2 from '../../components/hero2';
 
+
 export default function Page() {
   return (
     
@@ -26,7 +27,7 @@ export default function Page() {
    <Hero2 input="/images/adamtraining.jpg"/>
  
    </div>
-    
+  
     
     </div>
 
